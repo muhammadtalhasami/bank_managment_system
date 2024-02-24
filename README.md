@@ -1,16 +1,19 @@
-BACKGROUND
+# BACKGROUND
+
 Project_Name:- BANK MANAGNMENT SYSTEM
 Team_Members:-  MUHAMMAD TALHA, SYED ARHAM HASHMI AND SYED ABDUR REHMAN
 Project_Completion_time = 1.5 days
 Concepts_Used = Inheritance , Polymorphism
 
-KEY_FEATURES
+# KEY_FEATURES
+
 OOPS Object-Oriented Programming. It is a programming paradigm that utilizes the concept of "objects," 
 which encapsulate data and behavior. The key principles of OOPS include encapsulation, inheritance, and polymorphism, providing a 
 modular and organized approach to software development. OOPS facilitates the design and implementation of software systems by 
 modeling real-world entities as objects with attributes and methods, promoting code reusability and maintainability.
     
-PROJECT_INFO
+# PROJECT_INFO
+
     OTP Class:
         The OTP class is designed to generate a one-time password with a specified expiration time (60 seconds in this case).
         It has methods to retrieve the OTP value (getValue()) and check if it has expired (isExpired()).
