@@ -1,7 +1,6 @@
-# BACKGROUND
+# INTRO
 
 Project_Name:- BANK MANAGNMENT SYSTEM
-Project_Completion_time = 1.5 days
 Concepts_Used = Inheritance , Polymorphism
 
 # KEY_FEATURES
