@@ -1,7 +1,6 @@
 # BACKGROUND
 
 Project_Name:- BANK MANAGNMENT SYSTEM
-Team_Members:-  MUHAMMAD TALHA, SYED ARHAM HASHMI AND SYED ABDUR REHMAN
 Project_Completion_time = 1.5 days
 Concepts_Used = Inheritance , Polymorphism
 
